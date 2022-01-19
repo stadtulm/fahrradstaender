@@ -1,0 +1,18 @@
+# Aufbau
+
+image::Aufbau_Gitterroste.png[]
+
+image::Sensorplatte.png[]
+
+
+# Inbetriebnahme
+
+Nachdem ein geeigneter Standort in Absprache mit der Mobilitätsabteilung, unter Berücksichtigung der Vorgaben für Flucht- und Rettungswege, gefunden wurde, kann die Montage beginnen. Dafür wird der Fahrradständer mit Bolzenanker fest im Boden verschraubt (s. folgende Bilder).
+
+image::Installation.png[]
+
+Die Inbetriebnahme der Boxen sollte in der Reihenfolge von rechts nach links erfolgen (von Box 4 nach Box 1). Die Begründung dafür ist wie folgt. Es werden insgesamt vier LoRa-Sensorboxen verwendet, die jeweils zwei Analogeingänge besitzen. Damit lassen sich alle 8 Stellplätze abdecken. Die Signale der Druckschaltleisten werden verarbeitet und als Messwerte über das LoRaWAN an das Backend der THU versendet. In der Auswertung im Backend werden die Messdaten der Boxen 2 bis 4 in Node Red an die erste Box gesendet, wo sie aufaddiert werden und somit zusammen mit der Zählung der ersten Box eine gesamte Fahrradzahl ergeben und im Visualisierungstool Grafana angezeigt werden kann. Aus diesem Grund ist es wichtig, dass die Boxen 2 bis 4 zuerst senden und Box 1 zuletzt. *Die Datenverarbeitung bezieht sich auf das interne Backend der THU vor der Nutzung von Azure als Backend-Lösung*.
+
+Die Inbetriebnahme und Konfiguration der Boxen funktioniert mittels NFC über die Elsys-App „Sensor settings“ (bisher nur für Android verfügbar). Dafür muss das Smartphone mit dem Chip an die Rückseite der Boxen gehalten werden. *Bitte vorher überprüfen, ob die richtige Konfiguration in der App vorgenommen wurde. Ansonsten können die richtigen Einstellungen in der Box überschrieben und die Falschen übernommen werden*. Die Inbetriebnahme funktioniert nicht über die Vorderseite der Boxen und auch nicht durch die Sensorplatte aus Aluminium. Aus diesem Grund können die Boxen erst danach an die Platte verschraubt werden.
+
+Nachdem Box 4 in Betrieb genommen wurde, dauert es 3 Minuten (Abtastrate) bis die erste Messung der Fahrradzahl in Grafana angezeigt wird. Sollten noch keine Fahrräder im Fahrradständer drinstehen, bitte die Funktionalität anderweitig testen.
