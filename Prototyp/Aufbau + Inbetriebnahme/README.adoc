@@ -1,6 +1,10 @@
 # Aufbau
 
+Der Aufbau des Prototyps basiert auf einen handelsüblichen Bügelständer mit 5 Bügeln. Konstruktiv hinzugefügt wurden alle weiteren Komponenten, die in der link:..[Gerätebeschreibung] aufgezählt sind. Im folgenden Bild ist zunächst der Aufbau der Stellplätze dargestellt.
+
 image::Aufbau_Gitterroste.png[]
+
+In einem von 4 Abteilen sind 4 auf Maß zugeschnittene Gitterroste platziert. Angeordnet in der Form eines W's lassen sich somit 2 Stellplätze realisieren in denen Fahrräder mit ihrem Vorderrad abgestellt werden können. Die nach unten zuspitzende Form sorgt dafür, dass das Rad in der Mitte steht und somit die Druckschaltleisten (Drucksensoren) auslösen kann. Um alle Freiheitsgrade der Gitterroste einzuschränken werden sie auf einer Seite an zwei Aluminium-Flachstangen mit 8 M4 Innensechskantschrauben befestigt. Aufgrund der sehr ungenauen Bauweise der Bauteile werden auf der gegenüberliegenden Seite Kabelbinder und Aluminium-Stützgabeln benötigt, um die Gitterroste in ihrer Position zu stabilisieren.
 
 image::Sensorplatte.png[]
 
