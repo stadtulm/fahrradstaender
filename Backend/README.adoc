@@ -4,7 +4,7 @@ Im Folgenden soll ein kurzer Überblick über die Bestandteile und deren Kommuni
 
 image::Überblick_Backend.jpg[]
 
-Die link:Prototyp/LoRa-Boxen[LoRa-Boxen] übertragen die Daten über LoRaWAN an das Gateway. Diese werden dann über Ethernet an den TTN-Server weitergeben und an das Backend übermittelt.
+Die link:../Prototyp/LoRa-Boxen[LoRa-Boxen] übertragen die Daten über LoRaWAN an das Gateway. Diese werden dann über Ethernet an den TTN-Server weitergeben und an das Backend übermittelt.
 
 - 1: Sensordatenübermittlung (blau)
 - 2: Payload wird übermittelt und Sensorconfig-Frontend als Bedienoberfläche von NodeRED
