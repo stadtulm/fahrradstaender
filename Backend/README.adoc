@@ -1,8 +1,6 @@
 # Backend
 
-Im Folgenden soll ein kurzer Überblick über die Struktur des an der THU aufgebauten Backends gegeben werden. Hier findet die Messdatenverarbeitung und Visualisierung statt.
-
-.Bestandteile des Backends und deren Kommunikation
+Im Folgenden soll ein kurzer Überblick über die Bestandteile und deren Kommunikation des an der THU aufgebauten Backends gegeben werden. Hier findet die Messdatenverarbeitung und Visualisierung statt.
 
 image::Überblick_Backend.jpg[]
 
