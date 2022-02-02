@@ -1,0 +1,47 @@
+{
+  "db": {
+    "measurement": "backendtest"
+  },
+  "fields": [
+    {
+      "type": "uint",
+      "name": "bat_vol",
+      "offset_bytes": 1,
+      "length_bytes": 2
+    },
+    {
+      "type": "int",
+      "name": "Fahrradzahl",
+      "offset_bytes": 4,
+      "length_bytes": 1
+    },
+    {
+      "type": "int",
+      "name": "Fehler_Analog1",
+      "offset_bytes": 6,
+      "length_bytes": 1
+    },
+    {
+      "type": "int",
+      "name": "Fehler_Analog2",
+      "offset_bytes": 8,
+      "length_bytes": 1
+    },
+    {
+      "type": "int",
+      "name": "Stellplatz1",
+      "offset_bytes": 10,
+      "length_bytes": 1
+    },
+    {
+      "type": "int",
+      "name": "Stellplatz2",
+      "offset_bytes": 12,
+      "length_bytes": 1
+    }
+  ],
+  "time": {
+    "from": "network",
+    "format": "epoch_ms"
+  }
+}
