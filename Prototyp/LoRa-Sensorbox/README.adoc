@@ -1,7 +1,6 @@
-# Elektronikentwicklung
-## LoRa Boxen
+# LoRa-Boxen
 
-Es werden die link:../../../04_LoRa_Hardware/Elsys_ELT2/README.adoc[ELT 2 Boxen] von Elsys verwendet. Die Boxen werden so konfiguriert, dass sie in regelmäßigen Abständen
+Es werden die link:/Elsys_ELT2/README.adoc[ELT 2 Boxen] von Elsys verwendet. Die Boxen werden so konfiguriert, dass sie in regelmäßigen Abständen
 die Batteriespannung und zwei Analogwerte senden.
 
 Ein gesendeter Wert kann damit zum Beispiel *0x070E45080000180DA3* sein. Die Zahlen 0x07; 0x08; 0x18 sind identifier um zu erkennen welcher Wert was anzeigt. Die Zahlen nach diesen Werten sind die jeweiligen Werte zu den identifiern
