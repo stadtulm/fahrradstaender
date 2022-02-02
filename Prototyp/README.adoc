@@ -14,7 +14,7 @@ image::geraetebeschreibung.png[]
 4. Kabelbinder
 5. Flachstange
 6. Sensorplatte
-7. ELT-2 LoRa-Box
+7. link:LoRa-Boxen/Elsys_ELT2[ELT-2 LoRa-Boxen]
 8. Verlängerungsleitung (vieradrig)
 9. Kabelschutzschlauch
 10. Kabelkanal
