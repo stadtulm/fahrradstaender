@@ -14,11 +14,11 @@ image::geraetebeschreibung.png[]
 4. Kabelbinder
 5. Flachstange
 6. Sensorplatte
-7. link:LoRa-Boxen/Elsys_ELT2[ELT-2 LoRa-Boxen]
+7. link:LoRa-Boxen/Elsys_ELT2[Elsys ELT-2 LoRa-Boxen]
 8. Verlängerungsleitung (vieradrig)
 9. Kabelschutzschlauch
 10. Kabelkanal
-11. Mayser EKS 011 Miniaturdruckschaltleiste
+11. https://www.mayser.com/de/sicherheitstechnik/miniaturschaltleisten-einklemmschutz-1[Mayser EKS 011 Miniaturdruckschaltleisten]
 
 ## Technische Daten
 
