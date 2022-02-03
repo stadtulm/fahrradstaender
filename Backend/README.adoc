@@ -1,6 +1,6 @@
 # Backend
 
-Im Folgenden soll ein kurzer Überblick über die Bestandteile und deren Kommunikation des an der THU aufgebauten Backends gegeben werden. Hier findet die Messdatenverarbeitung und Visualisierung statt.
+Im Folgenden soll ein kurzer Überblick über die Bestandteile und deren Kommunikation des an der THU aufgebauten Backends gegeben werden. Hier findet die Messdatenverarbeitung, link:Auswertung[Auswertung] und link:Visualisierung[Visualisierung] statt.
 
 image::Überblick_Backend.jpg[]
 
