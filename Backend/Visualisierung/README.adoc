@@ -5,7 +5,7 @@ mittels einer vereinfachten Datenbankabfrage die gesendeten Daten grafisch darzu
 Erfolgreich angelegt heißt, dass der Sensor mindestens einmal Daten im richtigen Format
 gesendet hat. Es gibt verschiedene Möglichkeiten sich die Daten anzeigen zu lassen: Diagramm, Tabelle, Liste etc. Je nach Art der Daten kann die Darstellung umgestellt werden.
 
-Nach der Auswertung der Fahrradständermessdaten, können diese ebenfalls in Grafana visualisiert werden. Im folgenden Bild ist eine Beispielmessung in einem Graphen dargestellt.
+Nach der Auswertung der Fahrradständermessdaten, können diese ebenfalls in Grafana visualisiert werden. Im folgenden Bild ist eine Beispielmessung als Graph dargestellt.
 
 image::Anzahl_Fahrräder_Grafana.png[]
 
