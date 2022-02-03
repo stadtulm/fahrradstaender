@@ -29,3 +29,4 @@ Nachdem Box 4 in Betrieb genommen wurde, dauert es 3 Minuten (Abtastrate) bis di
 
 - *link:../CAD+TechnischeZeichnungen[CAD + Technische Zeichnungen]*
 - *link:../LoRa-Boxen[LoRa-Boxen]*
+- *link:../[Prototyp]*

@@ -18,3 +18,4 @@ Die Technische Zeichnung (TZ) dazu ist link:TZ_V2_ZSB_Fahrradständer.pdf[hier] 
 
 - *link:../Aufbau+Inbetriebnahme[Aufbau + Inbetriebnahme]*
 - *link:../LoRa-Boxen[LoRa-Boxen]*
+- *link:../[Prototyp]*
