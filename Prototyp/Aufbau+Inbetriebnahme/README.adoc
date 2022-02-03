@@ -11,9 +11,7 @@ Wie im Bild zu sehen, werden alle Sensorkabel um das untere Rohr des Bügeständ
 
 image::Sensorplatte.png[]
 
-In einem Kabelschutzschlauch werden die 4 Kabel aus dem Kabelkanal zur LoRa-Box geführt. Mit 3D-gedruckten Klemmen wird eine Aluminiumplatte an einem außenstehenden Bügel verschraubt, wo anschließend die LoRa-Boxen der Firma Elsys mit Sechskantschrauben befestigt werden. In jeder dieser 4 Boxen werden zwei Sensoren angeschlossen (s. folgendes Bild).
-
-(Bild von offener LoRa-Box)
+In einem Kabelschutzschlauch werden die 4 Kabel aus dem Kabelkanal zur LoRa-Box geführt. Mit 3D-gedruckten Klemmen wird eine Aluminiumplatte an einem außenstehenden Bügel verschraubt, wo anschließend die LoRa-Boxen der Firma Elsys mit Sechskantschrauben befestigt werden. In jeder dieser 4 Boxen werden zwei Sensoren angeschlossen (s. link:../LoRa-Boxen[Schaltung]).
 
 # Inbetriebnahme
 
