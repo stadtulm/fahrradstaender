@@ -82,5 +82,8 @@ image::geraetebeschreibung.png[]
 |IP65
 |===
 
+- *link:Aufbau+Inbetriebnahme[Aufbau + Inbetriebnahme]*
+- *link:CAD+TechnischeZeichnungen[CAD + Technische Zeichnungen]*
+- *link:LoRa-Boxen[LoRa-Boxen]*
 
 

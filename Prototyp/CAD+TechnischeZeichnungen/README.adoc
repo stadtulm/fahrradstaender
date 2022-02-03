@@ -15,3 +15,6 @@ Im Folgenden ist das CAD-Modell der 2. Version dargestellt. Die Druckschaltleist
 image::CAD-Modell_Fahrradständer_V2.0.png[]
 
 Die Technische Zeichnung (TZ) dazu ist link:TZ_V2_ZSB_Fahrradständer.pdf[hier] zu finden. Im Unterschied zu V1 werden in V2 keine Alu-Flachstangen, Stützgabeln und Kabelbinder zur Stabilisierung der Gitterroste verwendet, sondern link:TZ_Alu_Blech_V2_Fahrradständer.pdf[Alu-Bleche]. Ein weiterer Unterschied ist die größere Tiefe des Bügelständers als Optimierung, damit Fahrräder auch mit dem Rahmen an den Bügeln angeschlossen werden können.
+
+- *link:../Aufbau+Inbetriebnahme[Aufbau + Inbetriebnahme]*
+- *link:../LoRa-Boxen[LoRa-Boxen]*

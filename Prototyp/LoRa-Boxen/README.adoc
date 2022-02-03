@@ -42,3 +42,7 @@ Die Schaltleisten werden mit Vieradrigen Kabeln verbunden, die zu den LoRa-Boxen
 
 Die Messdatenverarbeitung, Auswertung und Visualisierung findet im link:../../Backend[Backend] statt.
 
+- *link:../Aufbau+Inbetriebnahme[Aufbau + Inbetriebnahme]*
+- *link:../CAD+TechnischeZeichnungen[CAD + Technische Zeichnungen]*
+- *link:../[Prototyp]*
+

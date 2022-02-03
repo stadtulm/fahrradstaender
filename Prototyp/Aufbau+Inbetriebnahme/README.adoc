@@ -26,3 +26,6 @@ Die Inbetriebnahme der Boxen sollte in der Reihenfolge von rechts nach links erf
 Die Inbetriebnahme und Konfiguration der Boxen funktioniert mittels NFC über die Elsys-App „Sensor settings“ (bisher nur für Android verfügbar). Dafür muss das Smartphone mit dem Chip an die Rückseite der Boxen gehalten werden. *Bitte vorher überprüfen, ob die richtige Konfiguration in der App vorgenommen wurde. Ansonsten können die richtigen Einstellungen in der Box überschrieben und die Falschen übernommen werden*. Die Inbetriebnahme funktioniert nicht über die Vorderseite der Boxen und auch nicht durch die Sensorplatte aus Aluminium. Aus diesem Grund können die Boxen erst danach an die Platte verschraubt werden.
 
 Nachdem Box 4 in Betrieb genommen wurde, dauert es 3 Minuten (Abtastrate) bis die erste Messung der Fahrradzahl in Grafana angezeigt wird. Sollten noch keine Fahrräder im Fahrradständer drinstehen, bitte die Funktionalität anderweitig testen.
+
+- *link:../CAD+TechnischeZeichnungen[CAD + Technische Zeichnungen]*
+- *link:../LoRa-Boxen[LoRa-Boxen]*
