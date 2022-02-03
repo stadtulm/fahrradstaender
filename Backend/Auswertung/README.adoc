@@ -27,4 +27,4 @@ Die beiden JSON Files für die Hauptbox (fahrradstaender1) und die anderen Boxen
 
 Die Codes für die Payloadfunktionen in Node RED sind unter link:Programmcode_fahrradstaender1.txt[fahrradstaender1], link:Programmcode_fahrradstaender2.txt[fahrradstaender2] und link:Programmcode_fahrradstaender34.txt[fahrradstaender34] gespeichert. Beim Code von Fahrradständer 1 und 2 sind die Analogeingänge zu 3 und 4 vertauscht, da dort die Verkabelung vertauscht ist. In link:Programmcode_fahrradstaender1.txt[Programmcode fahrradstaender1] ist auch der Code dokumentiert, dieser unterscheidet sich nicht zu den anderen, außer dass diese die Funktion zum Zusammenrechnen aller Stellplätze nicht besitzen.
 
-
+Unter link:../Visualisierung[Visualisierung] sind die in Grafana angezeigten Messwerte zu sehen.
